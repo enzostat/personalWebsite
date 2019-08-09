@@ -1,0 +1,31 @@
+h1 {
+	float: left;
+}
+
+a {
+	float: right;
+}
+
+body {
+	
+
+}
+
+header {
+	grid-area: "header"
+	background-color: #4d9ad4;
+
+}
+
+main {
+	grid-area: "main"
+	background-color: #f0ead6;
+}
+
+img {
+	float: right;
+}
+
+p {
+	
+}

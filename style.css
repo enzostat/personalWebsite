@@ -26,16 +26,21 @@ img {
 	/*float: right;*/
 }
 
-p {
-	
+footer {
+	position: absolute;
+	background-color: skyblue;
 }
 
 .img-class {
 	float: right;
-	width: 20vw
+	width: 10vw;
+	padding: 20px;
+	margin: 20px;
 }
 
 .text-class {
 	float: left;
-	width: 20vw
+	width: 20vw;
+	padding: 20px;
+	margin: 10px;
 }

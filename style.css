@@ -1,5 +1,6 @@
 h1 {
-	float: left;
+	text-align: center;
+
 }
 
 a {
@@ -7,7 +8,9 @@ a {
 }
 
 body {
-	
+	background-color: #f0ead6;
+	justify-content: center;
+	align-items: baseline;
 
 }
 
@@ -27,7 +30,7 @@ img {
 }
 
 footer {
-	position: absolute;
+	position: relative;
 	background-color: skyblue;
 }
 

@@ -23,9 +23,19 @@ main {
 }
 
 img {
-	float: right;
+	/*float: right;*/
 }
 
 p {
 	
+}
+
+.img-class {
+	float: right;
+	width: 20vw
+}
+
+.text-class {
+	float: left;
+	width: 20vw
 }
